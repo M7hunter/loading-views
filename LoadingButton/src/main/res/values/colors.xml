@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F2CCB6</color>
+    <color name="colorDark">#191919</color>
+    <color name="colorDisable">#BABABA</color>
+</resources>
